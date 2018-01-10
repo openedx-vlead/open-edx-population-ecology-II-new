@@ -3,21 +3,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "BIOTECH17", 
+            "course": "biotech17", 
             "name": "icons_Population_Ecology.png", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "icons_Population Ecology.png", 
-        "filename": "asset-v1:Amrita-University+BIOTECH17+Anytime+type@asset+block@icons_Population_Ecology.png", 
+        "filename": "asset-v1:Virtual-Labs+biotech17+Anytime+type@asset+block@icons_Population_Ecology.png", 
         "import_path": "icons_Population Ecology.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "BIOTECH17", 
+            "Virtual-Labs", 
+            "biotech17", 
             "thumbnail", 
             "icons_Population_Ecology-png.jpg", 
             null
@@ -27,21 +27,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "BIOTECH17", 
+            "course": "biotech17", 
             "name": "icons_Population_Ecology_04042016.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "icons_Population Ecology_04042016.jpg", 
-        "filename": "asset-v1:Amrita-University+BIOTECH17+Anytime+type@asset+block@icons_Population_Ecology_04042016.jpg", 
+        "filename": "asset-v1:Virtual-Labs+biotech17+Anytime+type@asset+block@icons_Population_Ecology_04042016.jpg", 
         "import_path": "icons_Population Ecology_04042016.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "BIOTECH17", 
+            "Virtual-Labs", 
+            "biotech17", 
             "thumbnail", 
             "icons_Population_Ecology_04042016.jpg", 
             null
